@@ -12,54 +12,54 @@ redirect_from:
 Education
 ======
 * B.A. in Geography & Environmental Studies , University of Maryland Baltimore County, 2024 (expected)
-* A.A. in General Studies, Howard Community College, 2021
-* 
+* A.A. in General Studies, Howard Community College, 2022
 
-Work experience
+Honors
 ======
-* Spring 2024: Academic Pages Collaborator
+* UMBC Dean's List, Spring 20
 
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+Certifications
+======
+* Digital Tech Credential: Generalist (Greater Washington Partnership)
+* The Role of Data and Analytics
+* Probability and Descriptive and Inferential Statistics
+* Data Manipulation
+* Data Visualization and Communication
+* Data Ethics
+* Data Security
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Proficient in overseeing both payload ad ground systems"
+* Intermediae user of Microsoft Office: Word, Excel, Powerpoint
+* Intermediate user of GIS
 
-Publications
+Projects
 ======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
+* Northrop Grumman
+Global Supply Chain Intern
+  * Created master file of employee contacts for several locations to aid New Hires
+  * Cleaned, maintaned, and updated C832 Supplier Forms
+* Java Programming
+  * Managed a team to create Java code to manage a Library
+* Management in Information Systems
+  * Collaborated with a team to determine a plan for Clerical department of UPS to improve overall performance
+  * Recommended updating and developing software to improve operations 
+
+Relevant Experience
 ======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
+* HCC-UMBC Summer Collaboration in Public Science
+Public Scientist
+  * Collected, examined, analyzed, and identified soil samples and spider webs
+  * Identified birds by their natural characteristics
+ 
+Additonal Experience
 ======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* KFC/Taco Bell
+Cashier
+  * Trained 5 new employees resulting in increased customer satisfaction
+  * Provided excellent and timely service; maintained cleanliness of area
+* Patuxent River Rehabilitation Center
+Certified Nursing Assistant
+  * Assisted residents in bathing, bathroom use, daily activities, and ambulating
+  * Observed and recorded vital signs
