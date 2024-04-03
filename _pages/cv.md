@@ -30,8 +30,8 @@ Certifications
 
 Skills
 ======
-* Proficient in overseeing both payload ad ground systems"
-* Intermediae user of Microsoft Office: Word, Excel, Powerpoint
+* Proficient in overseeing both payload and ground systems
+* Intermediate user of Microsoft Office: Word, Excel, Powerpoint
 * Intermediate user of GIS
 
 Projects
