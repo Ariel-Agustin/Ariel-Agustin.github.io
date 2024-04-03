@@ -11,13 +11,14 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* B.A. in Geography & Environmental Studies , University of Maryland Baltimore County, 2024 (expected)
+* A.A. in General Studies, Howard Community College, 2021
+* 
 
 Work experience
 ======
 * Spring 2024: Academic Pages Collaborator
+
   * Github University
   * Duties includes: Updates and improvements to template
   * Supervisor: The Users
