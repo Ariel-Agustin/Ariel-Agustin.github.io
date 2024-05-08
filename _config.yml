@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Ariel Agustin's Portfolio"
+title                    : "Ariel Agustin"
 title_separator          : "-"
 name                     : &name "Ariel Agustin"
 description              : &description "personal description"
