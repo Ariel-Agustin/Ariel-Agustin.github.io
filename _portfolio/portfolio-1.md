@@ -1,6 +1,6 @@
 ---
 title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='images/Lab05QGISFinalMap.pdf'>"
+excerpt: "Restrooms at Great Smokey Mountains National Park<br/><img src='/images/Lab05QGISFinalMap.pdf'>"
 collection: portfolio
 ---
 
