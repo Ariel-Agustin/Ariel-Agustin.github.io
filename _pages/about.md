@@ -13,4 +13,4 @@ I was born on January 11, 2001 in the Philippines. I moved to the US when I was 
 
 Brief Education
 ======
-I graduated from Howard Community College in the Spring of 2022 with an Associates Degree and I graduated from University of Maryland Baltimore County in the Spring of 2024 with a Bachelor's Degree in Geography and Environmental Studies and an Minor in Information Systems. 
+I graduated from Howard Community College in the Spring of 2022 with an Associates Degree and I graduated from University of Maryland Baltimore County in the Spring of 2024 with a Bachelor's Degree in Geography and Environmental Studies and a Minor in Information Systems. 
